@@ -1,4 +1,6 @@
-<h1 align="center"> 🧐 TechSpectra 🧐</h1>
+
+![TechSpectra](https://github.com/TechSpectra/.github/assets/113163028/f79171c0-ae4c-4be7-a890-a13717ed0867)
+
 
 <h2 align="center">Empowering AI Enthusiasts and Professionals</h2>
 <p align="center">
