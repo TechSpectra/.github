@@ -1,6 +1,6 @@
 
+![TechSpectra (3)](https://github.com/TechSpectra/.github/assets/113163028/d78400ce-96e9-484f-8d5a-73febeaba82d)
 
-![TechSpectra (2)](https://github.com/TechSpectra/.github/assets/113163028/5c139e17-ac1c-4955-8878-4e81079e2fa9)
 
 
 
